@@ -14,6 +14,6 @@
 음향(1명)
 - payno
 
-!(screenshots/2_game.png)
+![alt text](screenshots/2_game.png "스크린샷")
 
 
