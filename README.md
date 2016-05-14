@@ -1,19 +1,19 @@
 # MirrorMirror
 
 
-¾Èµå·ÎÀÌµå ÆÛÁñ°ÔÀÓ
+ì•ˆë“œë¡œì´ë“œ í¼ì¦ê²Œìž„
 
-ÆÀ¿ø
+íŒ€ì›
 
-ÇÁ·Î±×·¡¸Ó(3¸í)
-- Àå¼±Çõ, ±èÀç±Ù, ±è¼¼¿µ
+í”„ë¡œê·¸ëž˜ë¨¸(3ëª…)
+- ìž¥ì„ í˜, ê¹€ìž¬ê·¼, ê¹€ì„¸ì˜
 
-±×·¡ÇÈ(1¸í)
-- ¹ÚÁø¿ø
+ê·¸ëž˜í”½(1ëª…)
+- ë°•ì§„ì›
 
-À½Çâ(1¸í)
+ìŒí–¥(1ëª…)
 - payno
 
-screenshots/game.jpg
+screenshots/2_game.png
 
 
