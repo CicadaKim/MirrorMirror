@@ -14,6 +14,6 @@
 음향(1명)
 - payno
 
-screenshots/2_game.png
+!screenshots/2_game.png
 
 
