@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:2:1-32:12
+	xmlns:android
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:10:2-81
+	android:name
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:10:19-62
+application
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:11:5-29:19
+	android:label
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:14:9-37
+	android:allowBackup
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:15:9-40
+activity#basepackage.MainActivity
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:screenOrientation
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:19:13-42
+	android:theme
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:20:13-77
+	android:name
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:17:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.google.ads.AdActivity
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:27:9-28:126
+	android:configChanges
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:28:15-124
+	android:name
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:27:19-59
+uses-permission#android.permission.INTERNET
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:30:2-63
+	android:name
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:30:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:31:4-77
+	android:name
+		ADDED from D:\CicadaKim\Programming\MyAndroid\mirrormirror\MirrorMirror10.0_ans\app\src\main\AndroidManifest.xml:31:21-75

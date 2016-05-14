@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\timenumber.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\timenumber.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_unmute.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_unmute.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\guide_right.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\guide_right.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pause.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\pause.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ball1920.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\ball1920.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\timeover.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\timeover.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pause_home.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\pause_home.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\time_gage_box.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\time_gage_box.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\clock_up.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\clock_up.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\skip_up.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\skip_up.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\normal.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\normal.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\number.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\number.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\counter_cw_right.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\counter_cw_right.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sco_com_lv_font.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\sco_com_lv_font.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\counter90_tuto.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\counter90_tuto.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\push_right.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\push_right.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tuto_end.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tuto_end.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tuto_start.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tuto_start.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cw_right.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\cw_right.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\excellent.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\excellent.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\rank_font.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\rank_font.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\resume_count_2.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\resume_count_2.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_launcher.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\intro.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\intro.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\guide_up.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\guide_up.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\levelup4.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\levelup4.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\combo_num.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\combo_num.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\counter_cw_left.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\counter_cw_left.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\get_score_font.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\get_score_font.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\resume_count_1.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\resume_count_1.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\one_2.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\one_2.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\left.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\left.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\combo_num_font.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\combo_num_font.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\play_again.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\play_again.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\home_pressed.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\home_pressed.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_sound_off.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_sound_off.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pause_sound_on.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\pause_sound_on.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tutorial_push.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tutorial_push.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\title_3.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\title_3.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\reverse_left.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\reverse_left.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\top4.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\top4.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\time_guage.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\time_guage.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\push_left.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\push_left.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bak.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\bak.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pausescreen.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\pausescreen.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\reverse_right.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\reverse_right.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\skip_left.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\skip_left.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\title.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\title.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cclock_right.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\cclock_right.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_mute.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_mute.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\top.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\top.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tuto_x.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tuto_x.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\over_score.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\over_score.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\credit.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\credit.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\counter_cw_down.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\counter_cw_down.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\play_again_pressed.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\play_again_pressed.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\order.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\order.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\clock_left.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\clock_left.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\home.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\home.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\combo.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\combo.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\battery.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\battery.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\reverse_tuto.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\reverse_tuto.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\check_3.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\check_3.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\easy.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\easy.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\levelupfont.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\levelupfont.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\goodscreen_2.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\goodscreen_2.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\developer.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\developer.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\down.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\down.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\guide_down.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\guide_down.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tutorial_back1920.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tutorial_back1920.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\fade.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\fade.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_sound_on.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_sound_on.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tuto_o_push.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tuto_o_push.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_exit.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_exit.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\over_combo.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\over_combo.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\reverse_up.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\reverse_up.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\goodscreen_3.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\goodscreen_3.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\skip_down.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\skip_down.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\back_push.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\back_push.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cw_down.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\cw_down.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\hell.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\hell.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\up.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\up.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\resume_start.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\resume_start.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\heart.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\heart.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\check_1.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\check_1.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\clock_down.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\clock_down.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pause_resume.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\pause_resume.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_devs.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_devs.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\home_push.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\home_push.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\clock_right.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\clock_right.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tuto_o.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tuto_o.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\skip_right.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\skip_right.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\counter_cw_up.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\counter_cw_up.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pause_home_push.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\pause_home_push.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\order_background.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\order_background.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\icon.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\icon.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\over_best.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\over_best.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pause_box.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\pause_box.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_background.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_background.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\gameover.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\gameover.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\hard.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\hard.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\gagegreen.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\gagegreen.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cw_up.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\cw_up.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pause_sound_off.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\pause_sound_off.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\over_newrecord_text.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\over_newrecord_text.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ranking_text.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\ranking_text.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\back.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\back.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\perfect.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\perfect.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\levelup_1.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\levelup_1.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cclock_up.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\cclock_up.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tuto_x_push.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tuto_x_push.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\push_up.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\push_up.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\reverse_down.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\reverse_down.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\over_level.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\over_level.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tutorial_select.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tutorial_select.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\guide_left.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\guide_left.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\track1920.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\track1920.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cw_left.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\cw_left.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\comboline.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\comboline.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\normal90_tuto.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\normal90_tuto.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\push_down.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\push_down.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_back1920.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_back1920.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\skip_tuto.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\skip_tuto.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\devscreen.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\devscreen.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\miss_screen.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\miss_screen.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\game_level_text.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\game_level_text.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\time_num_font.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\time_num_font.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_rank.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_rank.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\over_timeover_text.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\over_timeover_text.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tutorial.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\tutorial.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\levelup_2.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\levelup_2.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\goodcombo.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\goodcombo.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\best_score_font.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\best_score_font.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\check_2.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\check_2.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\main_start.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\main_start.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\nomal_tuto.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\nomal_tuto.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cclock_down.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\cclock_down.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\one_1.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\one_1.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\goodscreen_1.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\goodscreen_1.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\over_gameover_text.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\over_gameover_text.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\resume_count_3.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\resume_count_3.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\levelup_effect.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\levelup_effect.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\game_lv_scorefont.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\game_lv_scorefont.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\right.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\right.png"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cclock_left.png",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\drawable-nodpi\\cclock_left.png"
+    }
+]

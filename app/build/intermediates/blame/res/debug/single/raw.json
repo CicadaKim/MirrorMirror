@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\raw\\correct.wav",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\raw\\correct.wav"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\raw\\new_record.mp3",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\raw\\new_record.mp3"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\raw\\count.wav",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\raw\\count.wav"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_over_voice.wav",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\raw\\game_over_voice.wav"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_over_down.wav",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\raw\\game_over_down.wav"
+    },
+    {
+        "merged": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_bgm_main.wav",
+        "source": "D:\\CicadaKim\\Programming\\MyAndroid\\mirrormirror\\MirrorMirror10.0_ans\\app\\src\\main\\res\\raw\\ground_bgm_main.wav"
+    }
+]
